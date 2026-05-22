@@ -1,0 +1,7 @@
+1: el delivery atiende al primero que llega y la bitacora muestra lo ultimo que paso al principio, si lo cambias el primer cliente elimina al ultimo y el historial se lee al reves
+
+2: tienes que ver que no este vacia la lista porque no puedes sacar algo que no existe,si lo olvidas el programa se vuelve loco y se cierra por un error de ejecucion
+
+3: sirve para revisar que lo que vas a borrar sea exactamente la accion que hiciste antes,evita el error de borraor texto que no corresponde y fastidiar todo el trabajo
+
+4: Mandas archivos zip pesados y el profesor ve tu codigo directo en github y hasta comentar cualquier cosa o error que encuentre
